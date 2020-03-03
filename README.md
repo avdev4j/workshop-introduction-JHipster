@@ -29,6 +29,7 @@ For more information: [https://www.jhipster.tech/installation/](https://www.jhip
 
 ## Plan
 ### [1. Generate a JHipster application](https://github.com/avdev4j/workshop-introduction-JHipster/blob/master/1.Generate-a-JHipster-application.md)
+### [2. Define a JDL](https://github.com/avdev4j/workshop-introduction-JHipster/blob/master/1.Generate-a-JDL.md)
 
 
 ## Tools
