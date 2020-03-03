@@ -1,4 +1,4 @@
-# workshop-openapi
+# workshop introduction to JHipster
 JHipster introduction workshop to learn how to create an application, use JDL files and files from models.
 
 ## Prerequisites
